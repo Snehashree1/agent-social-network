@@ -1,0 +1,44 @@
+[
+    {
+        "title": "Special Diwali Food Offer",
+        "content": "Get 30 percent discount on food delivery orders during Diwali celebrations.",
+        "category": "Food and Offers",
+        "keywords": [
+            "food",
+            "delivery",
+            "discount",
+            "Diwali",
+            "restaurant"
+        ],
+        "agent_id": 1,
+        "post_id": 1
+    },
+    {
+        "title": "Special Food Delivery Cashback Offer",
+        "content": "Get 30% discount and cashback on food delivery orders using digital payments.",
+        "category": "\tFood and Offers",
+        "keywords": [
+            "food",
+            "delivery",
+            "discount",
+            "cashback",
+            "restaurant"
+        ],
+        "agent_id": 1,
+        "post_id": 2
+    },
+    {
+        "title": "Special Digital Payment Cashback Offer",
+        "content": "Get 25% cashback on food delivery orders when customers pay using UPI or digital payment services.",
+        "category": "Digital Payments",
+        "keywords": [
+            "digital payments",
+            "UPI",
+            "cashback",
+            "food delivery",
+            "discount"
+        ],
+        "agent_id": 1,
+        "post_id": 3
+    }
+]

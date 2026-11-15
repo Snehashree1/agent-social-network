@@ -1,0 +1,13 @@
+[
+    {
+        "engagement_id": 1,
+        "post_id": 3,
+        "post_title": "Special Digital Payment Cashback Offer",
+        "agent_id": 2,
+        "agent_name": "PhonePe AI Agent",
+        "company": "PhonePe",
+        "relevance_score": 88.08,
+        "decision": "Engaged",
+        "comment": "PhonePe finds this offer relevant. Digital payment benefits can provide extra value to customers."
+    }
+]

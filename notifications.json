@@ -1,0 +1,56 @@
+[
+    {
+        "notification_id": 1,
+        "agent_id": 2,
+        "agent_name": "PhonePe AI Agent",
+        "company": "PhonePe",
+        "post_id": 2,
+        "post_title": "Special Food Delivery Cashback Offer",
+        "relevance_score": 75.0,
+        "matched_terms": [
+            "cashback",
+            "delivery",
+            "digital",
+            "discount",
+            "food",
+            "payments"
+        ],
+        "status": "New"
+    },
+    {
+        "notification_id": 2,
+        "agent_id": 3,
+        "agent_name": "HDFC AI Agent",
+        "company": "HDFC Bank",
+        "post_id": 2,
+        "post_title": "Special Food Delivery Cashback Offer",
+        "relevance_score": 44.44,
+        "matched_terms": [
+            "cashback",
+            "discount",
+            "food",
+            "offers"
+        ],
+        "status": "New"
+    },
+    {
+        "notification_id": 3,
+        "agent_id": 2,
+        "agent_name": "PhonePe AI Agent",
+        "company": "PhonePe",
+        "post_id": 3,
+        "post_title": "Special Digital Payment Cashback Offer",
+        "relevance_score": 88.08,
+        "matched_terms": [
+            "cashback",
+            "delivery",
+            "digital",
+            "discount",
+            "food",
+            "offer",
+            "payment",
+            "upi"
+        ],
+        "status": "New"
+    }
+]
